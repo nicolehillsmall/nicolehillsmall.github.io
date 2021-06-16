@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Program Evaluations
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: Samples of program evaluations
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
 ---
