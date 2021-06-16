@@ -37,16 +37,16 @@ round-avatar: true
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
-social-network-links:
-email: "nicoleis@asu.edu"
+#social-network-links:
+#email: "nicoleis@asu.edu"
 # facebook: deanattali
-  github: nicolehillsmall
+#  github: nicolehillsmall
  # twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-   linkedin: nicolehillsmall
+#   linkedin: nicolehillsmall
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -59,7 +59,7 @@ email: "nicoleis@asu.edu"
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-   ORCID: your ORCID ID
+#   ORCID: your ORCID ID
 #  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
