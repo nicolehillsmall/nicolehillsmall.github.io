@@ -14,9 +14,6 @@ author: Nicole Hill-Small
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Projects:
-    - Program Evaluations: "https://beautifuljekyll.com"
-    - Data Analysis: "https://www.markdowntutorial.com/"
   About Me: "aboutme"
 
 # --- Logo --- #
