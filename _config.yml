@@ -40,13 +40,13 @@ round-avatar: true
 social-network-links:
   email: "nicoleis@asu.edu"
 # facebook: deanattali
-github: nicolehillsmall
+  github: nicolehillsmall
  # twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-linkedin: nicolehillsmall
+  linkedin: nicolehillsmall
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -59,7 +59,7 @@ linkedin: nicolehillsmall
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-ORCID: 0000-0002-2221-2771
+  ORCID: 0000-0002-2221-2771
 #  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
