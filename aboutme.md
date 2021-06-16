@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: heyyyy!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm a recent Arizona State University grad (go sun devlis!) looking to change the world one line of code at a time. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I have a Master's in Program Evaluation & Data Analytics. 
+- My dog's name is Peppermint (she's a Mini Schnauzer). 
+- I live where the sun is always shining with my sweet husband. 
 
-What else do you need?
+### Find Me Here
 
-### My story
+GitHub: @nicolehillsmall
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+LinkedIn: @nicolehillsmall
