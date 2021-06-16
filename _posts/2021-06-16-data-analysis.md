@@ -1,5 +1,5 @@
 ---
 layout: post
 title: Data Analysis
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: Samples of data analysis and R code
 ---
