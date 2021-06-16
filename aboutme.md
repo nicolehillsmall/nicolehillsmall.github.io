@@ -10,9 +10,3 @@ I'm a recent Arizona State University grad (go sun devlis!) looking to change th
 - My dog's name is Peppermint (she has a beard). 
 - I live where the sun is always shining with my sweet husband. 
 
-
-### Find Me Here
-
-GitHub: @nicolehillsmall
-
-LinkedIn: @nicolehillsmall
