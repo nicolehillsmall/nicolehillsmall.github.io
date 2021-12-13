@@ -4,7 +4,7 @@ title: Technical Writing
 subtitle: Samples of technical writing
 ---
 
-**_Below are links to my original technical writing that was created between January 2020 - September 2021._**
+**_Below are links to my original technical writing that was created between July 2020 - September 2021._**
 
 [Identifying Sensitive Information](https://docs.google.com/document/d/1-CyNHiM_ozLcuBE3GZzwNQh7ODGASnta/edit?usp=sharing&ouid=107541685687056678534&rtpof=true&sd=true)
 
